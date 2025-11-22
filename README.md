@@ -1,7 +1,7 @@
 CSE 4001 – Synchronization Assignment
 ====================================
 
-#### Name: Arthur Quarra 
+#### Name: Artur Quarra 
 #### Course: CSE 4001 Operating Systems
 #### Assignment: Multi-thread Synchronization using Semaphores
 #### Program Name: cse4001_sync
